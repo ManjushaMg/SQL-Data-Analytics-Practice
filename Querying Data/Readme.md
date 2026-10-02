@@ -1,10 +1,16 @@
 Distinct Values: 
+
 ⦿  a query to retrieve distinct salaries from the Employees table. 
-2. Alias (AS): 
+2. Alias (AS):
+
 ⦿  Provide aliases for the "age" and "salary" columns as "Employee_Age" and "Employee_Salary", respectively. 
 3. Where Clause & Operators: 
+
 ⦿  Retrieve employees with a salary greater than ₹50000 and hired before 2016-01-01. 
 ⦿  Find the employee whose designation is missing and fill it with "Data Scientist". 
+
+
+
 Sorting and Grouping Data: 
 1. ORDER BY: 
 ⦿  Find employees sorted by department ID in ascending order and salary in descending order. 
