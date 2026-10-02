@@ -1,5 +1,5 @@
 # SQL-Data-Analytics-Practice
-a collection of SQL practice exercises and assignments as part of my data analytics learning journey
+A collection of SQL practice exercises and assignments as part of my data analytics learning journey
 This repository contains my SQL practice exercises and assignments as part of my Data Analytics learning journey.
 
 Topics Covered
