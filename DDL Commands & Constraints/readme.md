@@ -12,9 +12,9 @@ DDL Commands :
 ⦿   Rename the "Departments" table to "Departments_Info". 
 ⦿   Rename the "Location" table to "Locations". 
 5.      Table Truncation (TRUNCATE): Write an SQL statement to truncate the Employees table. 
-5.   Database & Table Dropping (DROP): Write the SQL statements to drop the Employees table and then the “employee” database.
+6.   Database & Table Dropping (DROP): Write the SQL statements to drop the Employees table and then the “employee” database.
 
-6.    
+   
 Constraints :
 
 1.   Database Recreation: 
