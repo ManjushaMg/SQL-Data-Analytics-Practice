@@ -1,9 +1,11 @@
 Distinct Values: 
 
 ⦿  a query to retrieve distinct salaries from the Employees table. 
+
 2. Alias (AS):
 
 ⦿  Provide aliases for the "age" and "salary" columns as "Employee_Age" and "Employee_Salary", respectively. 
+
 3. Where Clause & Operators: 
 
 ⦿  Retrieve employees with a salary greater than ₹50000 and hired before 2016-01-01. 
